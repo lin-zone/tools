@@ -1,3 +1,7 @@
+"""
+pip install -r requirements.txt
+pyinstaller -Fw batch_touch_file.py
+"""
 import re
 import os
 
