@@ -1,2 +1,2 @@
 gooey==1.0.3
-pyinstaller==3.5
+pyinstaller==3.6
